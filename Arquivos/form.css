@@ -1,0 +1,21 @@
+/* Alterando o fundo da pagina */
+
+body {
+    background-image: url("plano\ de\ fundo.jpg");
+}
+
+
+/* Ajustando o formulário para ficar no meio da pagina*/
+
+#divPrincipal {
+    margin: 200px 475px 50px 475px;
+    padding: 15px 20px 20px 20px;
+    background-color: white;
+}
+
+
+/* Ajustando o botão no meio da pagina*/
+
+#menu {
+    margin: 100px 0px 0px 810px;
+}
